@@ -2,12 +2,15 @@
 Backend part developed using nodejs and mongoDB
 
 # Supported Operations 
-#User
+
+# User
+
 User registration process
 
 LogIn process
 
-#Blog
+# Blog
+
 Add the blog
 
 Fetch the information of blog
